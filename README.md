@@ -26,7 +26,8 @@
 - [Youtube](https://www.youtube.com/watch?v=Nm7qr-_KJTg&t=20s)
 - [用户注册网址](https://e.lm.virbox.com/activity/register.html?region=CN&developerGuid=32EBA82667950DCB79F6065C04E5178EE7C12912B9E186F563710EF17A9F77F460DE17929C9E236000918AE8E3967AEA)
 - 注册完成之后+QQ群1077509080
-- Or you can contact us via email.3922946025@qq.com
+- Or you can contact us via email(3922946025@qq.com).   
+
 
 
 
