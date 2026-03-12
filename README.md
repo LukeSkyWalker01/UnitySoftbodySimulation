@@ -23,9 +23,10 @@
 ## 教程
 
 - [bilibili](https://www.bilibili.com/video/BV1dVAzzoEjT/?vd_source=5bccc61294ff6dede8114d4ec98da810)
-- [Youtube](https://github.com/LukeSkyWalker01/UnitySoftbodySimulation)
+- [Youtube](https://www.youtube.com/watch?v=Nm7qr-_KJTg&t=20s)
 - [用户注册网址](https://e.lm.virbox.com/activity/register.html?region=CN&developerGuid=32EBA82667950DCB79F6065C04E5178EE7C12912B9E186F563710EF17A9F77F460DE17929C9E236000918AE8E3967AEA)
 - 注册完成之后+QQ群1077509080
+
 
 
 
