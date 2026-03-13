@@ -1,5 +1,5 @@
 # SoftbodySimulation
-这是一个unity软体模拟插件，此插件可以使用CPU和GPU两种方式进行模拟。GPU模块是使用[ILGPU](https://github.com/m4rs-mt/ILGPU)进行模拟计算的。目前实现了软体和软体碰撞检测以及软体的自碰撞（目前还有点问题没有解决，当模拟的物体太薄比如皮肤，碰撞会出现穿透现象，目前还没有很好的解决方案）。此插件提供经过特殊处理过的刚体（可以通过unity 移动旋转等）和软体进行交互。另外可以通过矩形对软体进行切割。
+This is a Unity softbody simulation plugin that can use both CPU and GPU for simulation. The GPU module uses [ILGPU](https://github.com/m4rs-mt/ILGPU) for simulation calculations. Currently, it implements softbody-to-softbody collision detection and softbody self-collision (there are still some issues to be resolved, such as penetration when simulating very thin objects like skin, and there is no good solution yet). This plugin provides specially processed rigid bodies (which can be moved, rotated, etc. through Unity) to interact with softbodies. In addition, softbodies can be cut using rectangles.
 
 ![image](showcase/demo1_720.gif)
 ![image](showcase/demo2_720.gif)
@@ -8,33 +8,23 @@
 ![image](showcase/demo5_720.gif)
 ![image](showcase/demo6_720.gif)
 
-**特性:**
+**Features:**
 - XPBD (Extended Position Based Dynamics) method
-- 软体之间的碰撞以及软体的自碰撞
-- 和自定义刚体交互
-- 自定义矩形切割
-- CPU和GPU
+- Softbody-to-softbody collision and softbody self-collision
+- Interaction with custom rigid bodies
+- Custom rectangle cutting
+- CPU and GPU support
 
-## 支持的unity 版本
-此插件在Unity2022.3.62f3c1完成测试，在同等版本下应该也可以。
+## Supported Unity Versions
+This plugin was tested on Unity 2022.3.62f3c1 and should work on similar versions.
 
-
-
-## 教程
+## Tutorials
 
 - [bilibili](https://www.bilibili.com/video/BV1dVAzzoEjT/?vd_source=5bccc61294ff6dede8114d4ec98da810)
 - [Youtube](https://www.youtube.com/watch?v=Nm7qr-_KJTg&t=20s)
-- [用户注册网址](https://e.lm.virbox.com/activity/register.html?region=CN&developerGuid=32EBA82667950DCB79F6065C04E5178EE7C12912B9E186F563710EF17A9F77F460DE17929C9E236000918AE8E3967AEA)
-- 注册完成之后+QQ群1077509080
-- Or you can contact us via email(3922946025@qq.com).   
+- [User Registration URL](https://e.lm.virbox.com/activity/register.html?region=CN&developerGuid=32EBA82667950DCB79F6065C04E5178EE7C12912B9E186F563710EF17A9F77F460DE17929C9E236000918AE8E3967AEA)
+- After registration, join QQ group 1077509080
+- Or you can contact us via email (3922946025@qq.com).  
 
-
-
-
-
-
-
-
-
-
-
+## Other Language Versions
+- [Chinese README](README_zh.md)
